@@ -1,0 +1,2 @@
+send /server blaze
+#Changing anything on these scripts, which is not explained in the guide, will result in a ban. Change it at your own risk.

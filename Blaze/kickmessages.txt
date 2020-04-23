@@ -1,0 +1,57 @@
+Connection has been lost
+
+Server is restarting
+
+Server is full
+
+Too Many people
+
+Outdated Client
+
+End Of Stream
+
+Internal Server Error:java.net.Minecraft
+Internal exception: java.io.IOException: Received string length longer than maximum allowed (105>100)
+
+Internal Server Error
+
+Disconnected
+Illegal characters in chat
+
+disconnect.spam
+
+Read timed out
+
+Bad login
+
+Outdated server
+
+Kicked by an operator.
+
+Flying is not enabled on this server
+
+Attempting to attack an invalid entity
+
+Illegal stance
+
+Illegal position
+
+You have died. 
+Game over, man, it's game over!
+
+You have been idle for too long!
+
+Out of memory!
+
+Connection has been lost
+
+Server is restarting
+
+Server is full
+
+too many people
+Connection lost.
+Server is rebooting
+Server is rebooting!
+(!) Server is rebooting!
+(!) Server is rebooting! Redirecting you the hub...
